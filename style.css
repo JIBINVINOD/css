@@ -1,0 +1,44 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,700;1,900&family=Rajdhani:wght@300&display=swap');
+
+body{ background-image: url(image/360_F_191953033_gehQATeDoh5z6PyRDbeKyBZuS83CjMEF.jpg);
+
+}
+.one{
+     margin-left: 1%;
+    padding: 50px 10px 50px 10px;
+    text-align: left;
+    border-radius: 10px ;
+    
+}
+.head{
+    margin-left: -70%;
+   
+}
+.h2{
+    margin-left: 1%;
+    padding: 50px 10px 50px 10px;
+    text-align: left;
+    border-radius: 10px;
+}
+.two{
+    margin-top: -30%;
+    margin-right: -30%;
+    padding-left: 1200px;
+    box-shadow: 30px 10px rgb(8, 1, 17);
+}
+.three{
+    margin-top: -30%;
+    margin-right: -30%;
+    padding-left: 1200px;
+    box-shadow: 30px 10px black;
+}
+.pic{
+    margin-top: -30%;
+    margin-right: -30%;
+    padding-left: 1200px;
+    box-shadow: 30px 10px black;
+}
+.four{
+    margin-top: 10%;
+}
