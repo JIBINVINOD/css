@@ -24,19 +24,19 @@ body{ background-image: url(image/360_F_191953033_gehQATeDoh5z6PyRDbeKyBZuS83CjM
 .two{
     margin-top: -30%;
     margin-right: -30%;
-    padding-left: 1200px;
+    margin-left: 1200px;
     box-shadow: 30px 10px rgb(8, 1, 17);
 }
 .three{
     margin-top: -30%;
     margin-right: -30%;
-    padding-left: 1200px;
+    margin-left: 1200px;
     box-shadow: 30px 10px black;
 }
 .pic{
     margin-top: -30%;
     margin-right: -30%;
-    padding-left: 1200px;
+    margin-left: 1200px;
     box-shadow: 30px 10px black;
 }
 .four{
