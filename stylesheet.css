@@ -1,8 +1,10 @@
 body{
-    background-color: azure;
+    background-color: rgb(32, 160, 160);
 }
 .one{
-    margin: 10px 20px 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10%;
     padding: 10px;
     background-color: rgb(236, 231, 231);
 }
@@ -31,17 +33,26 @@ body{
 }
 .four{
     margin-left: 60px;
+    margin-bottom: 5%;
     background-color: blue;
 }
 div.div2{
     background-color: blue;
-    height: 20%;
-    width: 30%;
-    margin-left: 10%;
-    padding-left: 30%;
+    height: 50%;
+    width: 22%;
+    margin-left: 55.8%;
+    margin-top: -17.1%;
 }
 .h1{
     margin-top: 0%;
-    margin-left: 60%;
+    margin-left: 30%;
     padding: 30% 10% 30%;
+}
+.div{
+    background-color: rgb(255, 255, 255);
+    margin-left: 40%;
+   
+    width: 300px;
+    
+    
 }
