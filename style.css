@@ -9,10 +9,12 @@ body{ background-image: url(image/360_F_191953033_gehQATeDoh5z6PyRDbeKyBZuS83CjM
     padding: 50px 10px 50px 10px;
     text-align: left;
     border-radius: 10px ;
+    display: grid;
     
 }
 .head{
     margin-left: -70%;
+    justify-content: center;
    
 }
 .h2{
@@ -20,12 +22,20 @@ body{ background-image: url(image/360_F_191953033_gehQATeDoh5z6PyRDbeKyBZuS83CjM
     padding: 50px 10px 50px 10px;
     text-align: left;
     border-radius: 10px;
+    align-items: center;
+    
+    
+
 }
 .two{
     margin-top: -30%;
     margin-right: -30%;
     margin-left: 1200px;
+    transparent
     box-shadow: 30px 10px rgb(8, 1, 17);
+    border-width: 20px;
+    border-style:solid;
+    border-color: black;
 }
 .three{
     margin-top: -30%;
