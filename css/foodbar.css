@@ -14,10 +14,10 @@ body {
 }
 
 .btn {
-    margin: 300px ;
+    margin: 30% ;
     background: #f31212;
     color: #4d4141;
-    padding: .1rem .3rem;
+    padding: .1rem .2rem;
     font-size: .9rem;
     font-weight: 600;
     border: none;
@@ -32,11 +32,18 @@ body {
     color: #000;
 }
 .one{
-  margin: -1%;
-  padding: 0;
-    background-color: rgb(236, 231, 231);
+  padding-top: 1%;
+  padding-right: -30%;
+  padding-top: 60%;
+    background-color: rgb(231, 236, 236);
 }
 .img1{
-    margin: -1% 106% ;
-    padding: -10%;
+    margin-top: 90px;
+    margin-right: 70%;
+    margin-left: 200px;
+     width: 50%; 
+   
+}
+.fd{
+   margin: 100% 20%;
 }
