@@ -1,0 +1,32 @@
+body{
+    background-color: azure;
+}
+.head-1{
+    text-align: center;
+    border-bottom: 3px solid red;
+}
+.button{
+    color: red;
+    text-align: center;
+}
+.list{
+   text-align: center;
+}
+.list ul li{
+    margin-top: 8px;
+}
+.content{
+    background-color: crimson;
+    text-align: center;
+}
+.head-2{
+    color: red;
+    text-align: center;
+}
+.para{
+    text-align: center;
+}
+.img img{
+    margin-left: 30%;
+    width: 500px;
+}
