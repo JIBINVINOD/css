@@ -2,31 +2,40 @@ body{
     background-color: azure;
 }
 .head-1{
-    text-align: center;
+    
     border-bottom: 3px solid red;
+    margin-left: 40%;
 }
 .button{
     color: red;
-    text-align: center;
+    margin-left: 40%;
 }
 .list{
-   text-align: center;
+   margin-left: 40%;
 }
 .list ul li{
     margin-top: 8px;
 }
 .content{
     background-color: crimson;
+    color: aliceblue;
     text-align: center;
+    width: 300px;
+    margin-left: 40%;
 }
 .head-2{
     color: red;
-    text-align: center;
+    margin-left: 40%;
 }
 .para{
-    text-align: center;
+    margin-left: 40%;
+    
 }
 .img img{
-    margin-left: 30%;
-    width: 500px;
+    margin-left: 40%;
+    width: 250px;
+    height: 200px;
+}
+.full-section{
+    margin-left: 40%;
 }
